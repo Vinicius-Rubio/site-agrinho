@@ -1,0 +1,71 @@
+ 
+ {
+    margin 0
+    padding 0
+    box-sizing border-box
+    }
+
+    body {
+    font-family: Chrome '1', Montserrat;
+    line-height: 1.6;
+    background-color: #6c9400;
+    color: #ffffff;
+    }
+    
+    
+    header {
+    background: #a7b300;
+    color: #ffffff;
+    padding: 1rem 0;
+    
+    text-align: center;
+    }
+    
+    header h1 {
+    margin-bottom: 0.5rem;
+    }
+    
+    header nav ul {
+    list-style: none;
+    }
+    
+    header nav ul li {
+    display: inline;
+    margin: 0 0.5rem;
+    }
+    
+    header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    }
+    
+    header nav ul li a:hover {
+    text-decoration: underline;
+    }
+    
+    
+    main {
+    padding: 1rem;
+    margin: 1rem 0;
+    }
+    
+    
+    section {
+    margin-bottom: 2rem;
+    }
+    
+    section h2 {
+    margin-bottom: 1rem;
+    color: #ffffff;
+    }
+    
+    /* Estilo do rodapé */
+    footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    }
